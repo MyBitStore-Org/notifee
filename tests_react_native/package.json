@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "@notifee/react-native": "*",
-    "@react-native-firebase/app": "^14.5.1",
+    "@react-native-firebase/app": "^17.4.3",
     "@react-native-firebase/messaging": "^14.5.1",
     "cross-env": "^7.0.2",
     "prop-types": "^15.8.1",
     "react": "^18.0.0",
-    "react-native": "0.69.12"
+    "react-native": "0.73.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
