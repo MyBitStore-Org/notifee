@@ -109,7 +109,7 @@
     ]
   },
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^1.7.8",
     "shelljs": "^0.8.5"
   }
 }
